@@ -1,0 +1,2 @@
+# Minimum_Regularized_Redundancy_Maximum_Robust_Relevance_Variable_Selection
+Robust supervised dimensionality reduction 
